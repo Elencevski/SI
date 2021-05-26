@@ -18,8 +18,8 @@ Control Flow Graph (slika)
 
 EveryBranch 
 
-![Control Flow Graph](EveryBranch1.png "EverBranch1")
-![Control Flow Graph](EveryBranch2.png "EverBranch2")
+![Control Flow Graph](EB1.png "EverBranch1")
+![Control Flow Graph](EB2.png "EverBranch2")
 
 
 
