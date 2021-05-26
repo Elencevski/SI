@@ -13,3 +13,13 @@ Control Flow Graph (slika)
 Во овој случај Е = 25 и N = 19, па добиваме 15 – 19 + 2 = 8.
 
 
+
+
+
+EveryBranch 
+
+![Control Flow Graph](EveryBranch1.png"EverBranch1")
+![Control Flow Graph](EveryBranch2.png"EverBranch2")
+
+
+
