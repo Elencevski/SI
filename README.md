@@ -2,7 +2,7 @@
 
 
 Control Flow Graph (slika)
-![Control Flow Graph](CFG-Lab2.png "CFG")
+![Control Flow Graph](CFG(TheEnd).png "CFG")
 
 
 
@@ -17,14 +17,14 @@ Control Flow Graph (slika)
 
 EveryBranch 
 
-![Control Flow Graph](EB1.png "EverBranch1")
-![Control Flow Graph](EB2.png "EverBranch2")
+![Control Flow Graph](EB1(End).png "EverBranch1")
+![Control Flow Graph](EB2(End).png "EverBranch2")
 
 
 MultipleCondition
 
 ![Control Flow Graph](MC.png "MC")
-![Control Flow Graph](MC2.png "MC2")
+![Control Flow Graph](MC2(end).png "MC2")
 
 
 
