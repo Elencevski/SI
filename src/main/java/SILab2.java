@@ -26,11 +26,11 @@ public class SILab2 {
                 }
             } else if (hr == 24 && min == 0 && sec == 0) {//-------------13
                 result.add(hr * 3600 + min * 60 + sec);//---------14
-            } else {
+            } else {    //------15
                 throw new RuntimeException("The time is greater than the maximum");
             }
         }
 
-        return result;  //--------15
-    } //--------16
+        return result;  //--------16
+    } //--------17
 }
